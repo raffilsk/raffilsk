@@ -10,12 +10,12 @@
 
 👉 Mas existem outras tecnologias onde desenvolvi(o) alguns projetos que se encontram entre meus repositórios, ainda que com menor frequência:
 
-<img height= "35" src= "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"> <img height= "35" src= "https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white"> <img height= "35" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img height= "35" src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img height= "35" src= "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img height= "35" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
+<img height= "35" src= "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"> <img height= "35" src= "https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white"> <img height= "35" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img height= "35" src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img height= "35" src= "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 
-💻 Em meu ambiente de desenvolvimento econtrará:
+💻 Minhas preferências em desenvolvimento:
 
 <img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img height= "35" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img height= "35" src= "https://img.shields.io/badge/Yarn-2F8CB7?style=flat-square&logo=yarn&logoColor=white"> <img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img height= "35" src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img height= "35" src= "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 📊 Algumas Estatísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffilsk&theme=dracula&layout=compact)](https://github.com/raffilsk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffilsk&theme=dracula&layout=compact&langs_count=6&custom_title=Tecnologias%20mais%20utilizadas)](https://github.com/raffilsk/github-readme-stats)
